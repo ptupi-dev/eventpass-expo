@@ -2,10 +2,10 @@
 
 A production-inspired mobile ticketing application built with React Native and Expo, showcasing modern architecture, testing, CI/CD, and engineering best practices.
 
-![LICENSE](https://img.shields.io/badge/license-MIT-green)
+![LICENSE](https://img.shields.io/badge/license-MIT-green)  
 [![EXPO](https://img.shields.io/badge/expo@~57.0.1-white)](https://docs.expo.dev/)
 [![REACTNATIVE](https://img.shields.io/badge/project-react--native@0.86.0-blue)](https://reactnative.dev/docs/getting-started)
-[![TYPESCRIPT](https://img.shields.io/badge/language-typescript-informational)](https://docs.expo.dev/guides/typescript/)
+[![TYPESCRIPT](https://img.shields.io/badge/language-typescript-informational)](https://docs.expo.dev/guides/typescript/)  
 [![ANDROID](https://img.shields.io/badge/platform-android-green)](https://play.google.com/console/u/0/developers)
 [![IOS](https://img.shields.io/badge/ios-lightgrey)](https://developer.apple.com/account)
 
