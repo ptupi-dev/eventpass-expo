@@ -1,0 +1,7 @@
+sandbox_mode = "workspace-write"
+approval_policy = "on-request"
+web_search = "cached"
+model_reasoning_effort = "high"
+
+[windows]
+sandbox = "elevated"
