@@ -2,7 +2,7 @@
 
 A production-inspired mobile ticketing application built with React Native and Expo, showcasing modern architecture, testing, CI/CD, and engineering best practices.
 
-https://img.shields.io/badge/license-MIT-green
+[![LICENSE](https://img.shields.io/badge/license-MIT-green)]
 
 # Overview
 
