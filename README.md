@@ -154,3 +154,11 @@ npm install
 
 npx expo start
 ```
+
+# Future Improvements
+
+- Expo Web Port
+- Push Notifications
+- Deep Linking
+- Analytics
+- Accessibility improvements
