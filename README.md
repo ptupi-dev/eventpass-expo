@@ -67,43 +67,43 @@ The application simulates an event ticket platform where users authenticate, bro
 
 # Architecture
 
-src
-├── \_\_tests\_\_
-├── api
-├── app # Expo Router routes
-├── components
-├── hooks
-├── features
-│ ├── auth
-│ ├── events
-│ └── tickets
-├── services
-├── theme
-├── types
+src  
+├── \_\_tests\_\_  
+├── api  
+├── app # Expo Router routes  
+├── components  
+├── hooks  
+├── features  
+│ ├── auth  
+│ ├── events  
+│ └── tickets  
+├── services  
+├── theme  
+├── types  
 └── utils
 
 # Project Structure
 
 Each feature contains its own:
 
-Tests
-Components
-Hooks
-API layer
-Types
+- Tests
+- Components
+- Hooks
+- API layer
+- Types
 
 # Engineering Principles
 
 Focus on:
 
-Clean Architecture
-SOLID Principles
-Feature-based organization
-Separation of concerns
-Reusable components
-Type safety
-Error boundaries
-Dependency inversion where appropriate
+- Clean Architecture
+- SOLID Principles
+- Feature-based organization
+- Separation of concerns
+- Reusable components
+- Type safety
+- Error boundaries
+- Dependency inversion where appropriate
 
 # Testing
 
@@ -111,22 +111,22 @@ Focus on application behavior.
 
 Examples:
 
-Authentication flow
-Form validation
-Custom hooks
-API services
-Utility functions
-Component interactions
+- Authentication flow
+- Form validation
+- Custom hooks
+- API services
+- Utility functions
+- Component interactions
 
 # CI/CD
 
 Every pull request runs automated checks including:
 
-ESLint
-TypeScript
-Unit Tests
-Coverage
-Expo Doctor
+- ESLint
+- TypeScript
+- Unit Tests
+- Coverage
+- Expo Doctor
 
 # Backend
 
@@ -134,9 +134,9 @@ A lightweight REST API provides authentication and event data.
 
 Endpoints include:
 
-POST /login
-GET /events
-GET /tickets/:id
+- POST /login
+- GET /events
+- GET /tickets/:id
 
 # Runnning the project
 
