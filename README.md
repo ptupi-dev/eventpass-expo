@@ -9,6 +9,9 @@ A production-inspired mobile ticketing application built with React Native and E
 [![ANDROID](https://img.shields.io/badge/platform-android-green)](https://play.google.com/console/u/0/developers)
 [![IOS](https://img.shields.io/badge/ios-lightgrey)](https://developer.apple.com/account)
 
+⚠️ Warning  
+This portfolio is currently in development. Please read commits to know what's in here right now. This README file represents the project's final documentation.
+
 # Overview
 
 EventPass is a portfolio application designed to demonstrate my approach on a production-ready mobile application using the Expo managed workflow.
