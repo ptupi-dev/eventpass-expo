@@ -7,11 +7,7 @@ type PlaceholderScreenProps = {
   children?: ReactNode;
 };
 
-export function PlaceholderScreen({
-  title,
-  subtitle,
-  children,
-}: PlaceholderScreenProps) {
+export function PlaceholderScreen({ title, subtitle, children }: PlaceholderScreenProps) {
   return (
     <View style={styles.container}>
       <View style={styles.content}>

@@ -1,19 +1,12 @@
-import { Link, router } from 'expo-router';
+import { Link } from 'expo-router';
 import { Pressable, StyleSheet, Text } from 'react-native';
 
 import { PlaceholderScreen } from '@/components/PlaceholderScreen';
 
 export default function LoginScreen() {
   return (
-    <PlaceholderScreen
-      title="Login"
-      subtitle="Placeholder for the authentication flow."
-    >
-      <Link
-        asChild
-        replace
-        href={'/home'}
-      >
+    <PlaceholderScreen title="Login" subtitle="Placeholder for the authentication flow.">
+      <Link asChild replace href={'/home'}>
         <Pressable style={styles.button}>
           <Text style={styles.buttonText}>Force home</Text>
         </Pressable>

@@ -5,17 +5,13 @@ import { PlaceholderScreen } from '@/components/PlaceholderScreen';
 
 export default function HomeScreen() {
   return (
-    <PlaceholderScreen
-      title="Home"
-      subtitle="Placeholder for event discovery."
-    >
+    <PlaceholderScreen title="Home" subtitle="Placeholder for event discovery.">
       <Link
         asChild
         href={{
           pathname: '/ticket/[id]',
-          params: { id: 'ticket-001' }
-        }}
-      >
+          params: { id: 'ticket-001' },
+        }}>
         <Pressable style={styles.button}>
           <Text style={styles.buttonText}>Open sample ticket</Text>
         </Pressable>
