@@ -1,0 +1,18 @@
+EventPass Expo Portfolio App
+
+This is a TODO list to keep up with this portfolio app updates.
+
+✔ Add temp data json files @done(26-07-16 17:07)
+  ✔ Users @done(26-07-16 17:07)
+  ✔ Events @done(26-07-16 17:07)
+  ✔ Tickets @done(26-07-16 17:07)
+✔ Add TanStack Query to query info from json files @done(26-07-16 17:07)
+  ✔ Install TanStack Query @done(26-07-16 17:07)
+  ✔ useEvents @done(26-07-16 17:07)
+  ☐ useTickets
+  ☐ useAuth
+☐ Login feature
+  ☐ Install Zustand for local state management
+  ☐ Instal Async Storage for local persist
+  ☐ Login with email and password
+  ☐ Persist user

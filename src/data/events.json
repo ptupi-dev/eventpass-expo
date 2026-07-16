@@ -1,0 +1,29 @@
+[
+  {
+    "event-id": "1",
+    "name": "React Summit 2026",
+    "location": "Centro de Convenções",
+    "address": "São Paulo, SP",
+    "date": "2026-09-18 16:00:00",
+    "image-url": "",
+    "url": ""
+  },
+  {
+    "event-id": "2",
+    "name": "Design System Day",
+    "location": "Arca",
+    "address": "São Paulo, SP",
+    "date": "2026-10-07 14:00:00",
+    "image-url": "",
+    "url": ""
+  },
+  {
+    "event-id": "3",
+    "name": "NodeConf Brasil",
+    "location": "Expo Center Norte",
+    "address": "São Paulo, SP",
+    "date": "2026-11-22 10:00:00",
+    "image-url": "",
+    "url": ""
+  }
+]
