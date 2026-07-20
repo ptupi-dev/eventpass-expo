@@ -9,10 +9,12 @@ This is a TODO list to keep up with this portfolio app updates.
 ✔ Add TanStack Query to query info from json files @done(26-07-16 17:07)
   ✔ Install TanStack Query @done(26-07-16 17:07)
   ✔ useEvents @done(26-07-16 17:07)
-  ☐ useTickets
+  ✔ useTickets @done(26-07-20 12:29)
+  ✔ useTicket (eventId) @done(26-07-20 12:29)
   ☐ useAuth
 ☐ Login feature
   ☐ Install Zustand for local state management
   ☐ Instal Async Storage for local persist
+  ☐ Install JWT to generate login token
   ☐ Login with email and password
   ☐ Persist user

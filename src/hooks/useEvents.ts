@@ -2,7 +2,7 @@ import { useQuery } from '@tanstack/react-query';
 
 import { EventType } from '@/types/events';
 import { wait } from '@/utils/functions';
-import events from '../data/events.json';
+import events from '../mocks/events.json';
 
 export async function fetchEvents(): Promise<EventType[]> {
   await wait(3000);
